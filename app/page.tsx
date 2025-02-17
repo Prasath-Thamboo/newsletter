@@ -1,8 +1,7 @@
 export default function Home() {
   return (
-    <div>
-      <button className="btn btn-accent"> Test </button>
-
+    <div className="flex flex-col justify-center items-center h-screen">
+      
     </div>
   );
 }
